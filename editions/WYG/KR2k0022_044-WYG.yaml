@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0022/WYG/v1/juan/44
+seq: 44
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_044-1a, image: WYG0490/WYG0490-0466a.png}
+body:
+  text: 咸淳臨安志卷四十四宋潜說友撰秩官二世紀沿革名氏事蹟晉武帝吳國内史咸淳臨安志巻四十四
+  hash: sha256:c1a8d9d1bfb6ea9a010c70c516ac2544b73320b669b07caffc9a1c7fe0a3178a
+metadata:
+  title: 咸淳臨安志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:39:36.679860'
+  juan_title: 卷四十四
+  source:
+    repository: kanripo
+    path: KR2k0022/KR2k0022_044.txt
+hash: sha256:7f2fbf2dee3a1012c52860b6d2f50048594858e678e0aba7bebc2feb268eb8bc

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0022/krp/v1/juan/46
+seq: 46
+front:
+  text: 欽定四庫全書卷
+  hash: sha256:a534fc66fa07709fff40829ca8fd0873be796b9ab10eff7af791e82cf59707fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_046-1a, image: WYG0490/WYG0490-0480a.png}
+body:
+  text: 咸淳臨安志卷四十六宋潜說友撰秩官四咸淳臨安志卷四十六
+  hash: sha256:5ade499411c75c8ab1aea88aba652c6fab50ce7176a2ff33ec7d4e77801fd674
+metadata:
+  title: 咸淳臨安志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:36.679860'
+  juan_title: 卷四十六
+  source:
+    repository: kanripo
+    path: KR2k0022/KR2k0022_046.txt
+hash: sha256:1d033a20fa752af2af823454f7dca1ed7b380a3f33de83b36f82bb88282a066c

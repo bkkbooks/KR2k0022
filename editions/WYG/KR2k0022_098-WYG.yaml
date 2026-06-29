@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0022/WYG/v1/juan/98
+seq: 98
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_098-1a, image: WYG0490/WYG0490-0990a.png}
+body:
+  text: 咸淳臨安志巻一百宋潜説友撰闕咸淳臨安志卷一百
+  hash: sha256:d12c1327c92ff7b3cdf1e03170e16e95e2d00a805ff0358579346ca425314aee
+metadata:
+  title: 咸淳臨安志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:39:36.679860'
+  juan_title: 卷一百
+  source:
+    repository: kanripo
+    path: KR2k0022/KR2k0022_098.txt
+hash: sha256:fe41bd1e647a99e1f878f47fcfdb3ac48713047705bf8aeb60ea72faf0bbaf2d

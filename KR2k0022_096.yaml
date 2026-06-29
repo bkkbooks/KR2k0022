@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0022/krp/v1/juan/96
+seq: 96
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_096-1a, image: WYG0490/WYG0490-0989a.png}
+body:
+  text: 咸淳臨安志卷九十八宋潜說友撰闕咸淳臨安志卷九十八
+  hash: sha256:4ebb760622dea7ffeeff8104f6e321392e79e00b67a04f3d9faf52b1c6231296
+metadata:
+  title: 咸淳臨安志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:36.679860'
+  juan_title: 卷九十八
+  source:
+    repository: kanripo
+    path: KR2k0022/KR2k0022_096.txt
+hash: sha256:0ef6d416a63cbdeb74227ed678ca6b54ecad50010a3fb4dc26621bd7fdbe5432

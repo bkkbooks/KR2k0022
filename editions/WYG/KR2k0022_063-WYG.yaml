@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0022/WYG/v1/juan/63
+seq: 63
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_063-1a, image: WYG0490/WYG0490-0659a.png}
+body:
+  text: 咸淳臨安志卷六十四宋潜説友撰闕咸淳臨安志卷六十四
+  hash: sha256:4376e6406c35d3a0907203a1c42223de3b14af567970c97ee70999d4eda0f867
+metadata:
+  title: 咸淳臨安志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:39:36.679860'
+  juan_title: 卷六十四原闕
+  source:
+    repository: kanripo
+    path: KR2k0022/KR2k0022_063.txt
+hash: sha256:7c20f2801af76145e8de1c5aeb6281f44d439e222fa036cfdbc647430631646a

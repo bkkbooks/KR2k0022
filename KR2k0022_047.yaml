@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0022/krp/v1/juan/47
+seq: 47
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_047-1a, image: WYG0490/WYG0490-0488a.png}
+body:
+  text: 咸淳臨安志卷四十七宋潜說友撰秩官五咸淳臨安志卷四十七
+  hash: sha256:4f0543d41fc10a52d9c723182a0d1f00019a70a923dc7848e508749943603a3b
+metadata:
+  title: 咸淳臨安志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:36.679860'
+  juan_title: 卷四十七
+  source:
+    repository: kanripo
+    path: KR2k0022/KR2k0022_047.txt
+hash: sha256:7b4d538329e269c0705513a883cb8942ac2e9cf66503249025c5438bfd94dc8a

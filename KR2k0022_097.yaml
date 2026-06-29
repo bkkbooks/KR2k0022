@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0022/krp/v1/juan/97
+seq: 97
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_097-1a, image: WYG0490/WYG0490-0989c.png}
+body:
+  text: 咸淳臨安志卷九十九宋潜說友撰闕咸淳臨安志卷九十九
+  hash: sha256:a487485005377a605c07d15c78654393aa72dec3fc4cfecd667c8ead1a89c041
+metadata:
+  title: 咸淳臨安志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:36.679860'
+  juan_title: 卷九十九
+  source:
+    repository: kanripo
+    path: KR2k0022/KR2k0022_097.txt
+hash: sha256:9075bf46b65b019c39115eb2d1e191e92a1ae0a627f1b0b86a05c707aec7a775
