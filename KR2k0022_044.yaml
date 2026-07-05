@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_044-1a, image: WYG0490/WYG0490-0466a.png}
 body:
-  text: 咸淳臨安志卷四十四宋潜說友撰秩官二世紀沿革名氏事蹟晉武帝吳國內史咸淳臨安志卷四十四
-  hash: sha256:e68a4c5b91cf195dbe5fe440d9abaa05cc284ba89b94ff97514cb5629da8d6ed
+  text: 咸淳臨安志卷四十四宋潜說友撰秩官二世紀沿革名氏事蹟晉武帝吳國内史咸淳臨安志巻四十四
+  hash: sha256:c1a8d9d1bfb6ea9a010c70c516ac2544b73320b669b07caffc9a1c7fe0a3178a
 metadata:
   title: 咸淳臨安志
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0022/KR2k0022_044.txt
-hash: sha256:fb814b444b6421f354bd5de5e7e84020c691e084d033c740fa8f31b44bb8616d
+hash: sha256:ad7fb1448d3da765d20c015c29dfc56c48116f35a948dd45c50f0393ccabaee5
