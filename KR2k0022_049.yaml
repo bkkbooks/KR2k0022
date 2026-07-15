@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0022_WYG_049-1a, image: WYG0490/WYG0490-0504a.png}
 body:
-  text: 咸淳臨安志卷四十九宋潜説友撰秩官七咸淳臨安志卷四十九
-  hash: sha256:28211033beed82436aa10b43047ef01cdac756648744de3be70aebf6002b0e86
+  text: 咸淳臨安志卷四十九宋潛説友撰秩官七咸淳臨安志卷四十九
+  hash: sha256:6c103c95a3152110509e8e7343be5bd67e741f09499c709a346747b8f54ee0aa
 metadata:
   title: 咸淳臨安志
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0022/KR2k0022_049.txt
-hash: sha256:3d52addc60434a12abfb66351e050e6415f4b85ceed84d7feb189137901b0ebb
+hash: sha256:3bdd867aef504c9430cd2869a01146eeec6741655d87a7a3b978c3e46b44d27b
