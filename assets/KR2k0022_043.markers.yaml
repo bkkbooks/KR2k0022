@@ -145,6 +145,7 @@ markers:
   - {type: line-break, offset: 412, content: '', id: KR2k0022_WYG_043-2b01}
   - {type: indent, offset: 412, content: 　, id: KR2k0022_krp_043-bkkind14}
   - {type: punctuation, offset: 415, content: (, id: KR2k0022_krp_043-bkkpn1}
+  - {type: voice, offset: 415, length: 22, name: note, id: n1}
   - {type: substitution, offset: 418, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 426, content: /, id: KR2k0022_krp_043-bkkpn2}
   - {type: punctuation, offset: 437, content: ), id: KR2k0022_krp_043-bkkpn3}
@@ -167,6 +168,7 @@ markers:
   - {type: line-break, offset: 483, content: '', id: KR2k0022_WYG_043-2b04}
   - {type: indent, offset: 483, content: 　, id: KR2k0022_krp_043-bkkind17}
   - {type: punctuation, offset: 495, content: (, id: KR2k0022_krp_043-bkkpn4}
+  - {type: voice, offset: 495, length: 14, name: note, id: n2}
   - {type: punctuation, offset: 502, content: /, id: KR2k0022_krp_043-bkkpn5}
   - {type: punctuation, offset: 509, content: ), id: KR2k0022_krp_043-bkkpn6}
   - {type: 'kr:newline', offset: 510, content: '
@@ -589,6 +591,7 @@ markers:
   - {type: line-break, offset: 1718, content: '', id: KR2k0022_WYG_043-6b07}
   - {type: indent, offset: 1718, content: 　, id: KR2k0022_krp_043-bkkind84}
   - {type: punctuation, offset: 1731, content: (, id: KR2k0022_krp_043-bkkpn7}
+  - {type: voice, offset: 1731, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 1735, content: /, id: KR2k0022_krp_043-bkkpn8}
   - {type: punctuation, offset: 1738, content: ), id: KR2k0022_krp_043-bkkpn9}
   - {type: 'kr:newline', offset: 1738, content: '
@@ -719,4 +722,4 @@ markers:
 
       ', id: KR2k0022_krp_043-bkkkrnewl133}
   back: []
-hash: sha256:db0dff60d44a0eba5b203c319cad1dd318a652c7a16437ae487cb25dec99b768
+hash: sha256:16b2811891f9ff04339f67a6a055642ce1328740961db3e022c5507387f9ea5c
